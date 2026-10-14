@@ -19,15 +19,6 @@ Exploring **AI Agents** · **Full-Stack Development** · **Open Source**
 - 🚀 Learning by building and sharing.
 
 
-### 🛠️ Tech Stack
-
-**Languages:** Python · Java · SQL
-
-**Backend:** FastAPI · MySQL · Redis
-
-**Infrastructure:** Docker · Milvus
-
-**Currently Exploring:** LLM Agents · RAG · Full-Stack Development
 
 
 
